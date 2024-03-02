@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student at UNIFESP.<br>Web Developer<br>Front end<br>Back end<br><br>Data Structures<br>I created this account to publish my codes and try to have a good experience in be a better programmer
+I am a computer science student at UNIFESP.<br>Web Developer<br>Front end<br>Back end<br>Data Structures<br>I created this account to publish my codes and try to have a good experience in be a better programmer
 
 
 ## 🌐 Socials:
