@@ -137,8 +137,8 @@ Neural Networks
 Instagram
 https://instagram.com/leonardoarazo
 
-Facebook
-https://facebook.com/Leonardo Arazo
+Linkedin
+https://www.linkedin.com/in/leonardo-arazo
 
 ---
 
